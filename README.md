@@ -4,7 +4,7 @@
 
 ![](https://bit-trade-one.co.jp/wp/wp-content/uploads/2019/08/3b41b291e659768dc80db779f12b911e.jpg)  
 
-USB接続する事でPC上のアプリからリレーの動作を自在にコントロールできるADUBRUのサポートページです。  
+USB接続する事でPC上のアプリからリレーの動作を自在にコントロールできる、ADUBRUのサポートページです。  
   
 **ご注意！**  
 本製品をお使いになるには電子工作や電子回路についての一般的な知識が必要です。  
@@ -14,31 +14,31 @@ USB接続する事でPC上のアプリからリレーの動作を自在にコン
 ---
 
 
-## [アプリケーションソフト(5回路版)](https://github.com/bit-trade-one/ADUBRU-RelayControll/raw/master/PC-Tool/USB_Relay_Controll_CT_5Relay.exe)  
+### [アプリケーションソフト(5回路版)](https://github.com/bit-trade-one/ADUBRU-RelayControll/raw/master/PC-Tool/USB_Relay_Controll_CT_5Relay.exe)  
 
-## [アプリケーションソフト(9回路版)](https://github.com/bit-trade-one/ADUBRU-RelayControll/raw/master/PC-Tool/USB_Relay_Controll_CT_9Relay.exe)  
-
----
-
-### [C#ライブラリ](https://github.com/bit-trade-one/ADUBRU-RelayControll/tree/master/Library-Cs)
-
-### [C++ライブラリ](https://github.com/bit-trade-one/ADUBRU-RelayControll/tree/master/Library-Cpp)
-
-### [Visual Basicライブラリ]()
+### [アプリケーションソフト(9回路版)](https://github.com/bit-trade-one/ADUBRU-RelayControll/raw/master/PC-Tool/USB_Relay_Controll_CT_9Relay.exe)  
 
 ---
 
+#### [C#ライブラリ](https://github.com/bit-trade-one/ADUBRU-RelayControll/tree/master/Library-Cs)
 
-#### [ファームウェア(5回路版)](https://github.com/bit-trade-one/ADUBRU-RelayControll/raw/master/Firmware/FW_Relay5_v100_full.zip)
+#### [C++ライブラリ](https://github.com/bit-trade-one/ADUBRU-RelayControll/tree/master/Library-Cpp)
 
-#### [ファームウェア(9回路版)](https://github.com/bit-trade-one/ADUBRU-RelayControll/raw/master/Firmware/FW_Relay9_v100_full.zip)
+#### [Visual Basicライブラリ]()
+
+---
+
+
+##### [ファームウェア(5回路版)](https://github.com/bit-trade-one/ADUBRU-RelayControll/raw/master/Firmware/FW_Relay5_v100_full.zip)
+
+##### [ファームウェア(9回路版)](https://github.com/bit-trade-one/ADUBRU-RelayControll/raw/master/Firmware/FW_Relay9_v100_full.zip)
 
 
 ---
 
-#### [アプリケーションソース](https://github.com/bit-trade-one/ADUBRU-RelayControll/raw/master/PC-Tool/USB_Relay_Controll_CT_Relay_source.zip)  
+##### [アプリケーションソース](https://github.com/bit-trade-one/ADUBRU-RelayControll/raw/master/PC-Tool/USB_Relay_Controll_CT_Relay_source.zip)  
 
-#### [ファームウェアソース](https://github.com/bit-trade-one/ADUBRU-RelayControll/raw/master/Firmware/FW_Relay_v100_full_source.zip)
+##### [ファームウェアソース](https://github.com/bit-trade-one/ADUBRU-RelayControll/raw/master/Firmware/FW_Relay_v100_full_source.zip)
 
 
 ---
