@@ -11,9 +11,6 @@ USB接続する事でPC上のアプリからリレーの動作を自在にコン
 
 ## [製品HP](https://bit-trade-one.co.jp/adubru/) 
 
----
-
-
 ### [アプリケーションソフト(5回路版)](https://github.com/bit-trade-one/ADUBRU-RelayControll/raw/master/PC-Tool/USB_Relay_Controll_CT_5Relay.exe)  
 
 ### [アプリケーションソフト(9回路版)](https://github.com/bit-trade-one/ADUBRU-RelayControll/raw/master/PC-Tool/USB_Relay_Controll_CT_9Relay.exe)  
