@@ -22,7 +22,7 @@ USB接続する事でPC上のアプリからリレーを自在にコントロー
 
 ### [Visual Basicライブラリ]()
 
-## ファームウェア・ソース
+## ファームウェア
 ### [ファームウェア・ソース](https://github.com/bit-trade-one/ADUBRU-RelayControll/tree/master/Firmware)
 
 ---
