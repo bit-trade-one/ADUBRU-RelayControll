@@ -12,6 +12,8 @@ USB接続する事でPC上のアプリからリレーを自在にコントロー
 
 ### [9回路版ダウンロード](https://github.com/bit-trade-one/ADUBRU-RelayControll/raw/master/PC-Tool/USB_Relay_Controll_CT_9Relay.exe)  
 
+#### [PCツール・ソース](https://github.com/bit-trade-one/ADUBRU-RelayControll/tree/master/PC-Tool)  
+
 ## ライブラリ
 
 ### [C#ライブラリ](https://github.com/bit-trade-one/ADUBRU-RelayControll/tree/master/Library-Cs)
@@ -20,23 +22,10 @@ USB接続する事でPC上のアプリからリレーを自在にコントロー
 
 ### [Visual Basicライブラリ]()
 
-## ファームウェア
-
-#### [ファームウェア(5回路版)](https://github.com/bit-trade-one/ADUBRU-RelayControll/raw/master/Firmware/FW_Relay5_v100_full.zip)
-
-#### [ファームウェア(9回路版)](https://github.com/bit-trade-one/ADUBRU-RelayControll/raw/master/Firmware/FW_Relay9_v100_full.zip)
-
-
-## ソース
-
-#### [アプリケーションソース](https://github.com/bit-trade-one/ADUBRU-RelayControll/raw/master/PC-Tool/USB_Relay_Controll_CT_Relay_source.zip)  
-
-#### [ファームウェアソース](https://github.com/bit-trade-one/ADUBRU-RelayControll/raw/master/Firmware/FW_Relay_v100_full_source.zip)
-
+## [ファームウェア・ソース](https://github.com/bit-trade-one/ADUBRU-RelayControll/tree/master/Firmware)
 
 ---
-
-  
+ 
 **ご注意！**  
 本製品をお使いになるには電子工作や電子回路についての一般的な知識が必要です。  
 
