@@ -1,10 +1,8 @@
 # ADUBRU-RelayControll
 
-## パソコンからリレーの制御が可能！
-
 ![](https://bit-trade-one.co.jp/wp/wp-content/uploads/2019/08/3b41b291e659768dc80db779f12b911e.jpg)  
 
-USB接続する事でPC上のアプリからリレーの動作を自在にコントロールできる、ADUBRUのサポートページです。  
+USB接続する事でPC上のアプリからリレーを自在にコントロールできる、ADUBRUのサポートページです。  
 
 ## [製品HP](https://bit-trade-one.co.jp/adubru/) 
 
