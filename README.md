@@ -12,7 +12,7 @@ USB接続する事でPC上のアプリからリレーを自在にコントロー
 
 ### [9回路版ダウンロードリンク](https://github.com/bit-trade-one/ADUBRU-RelayControll/raw/master/PC-Tool/USB_Relay_Controll_CT_9Relay.exe)  
 
-### [PCツール・ソース](https://github.com/bit-trade-one/ADUBRU-RelayControll/tree/master/PC-Tool)  
+### [PC制御アプリ・ソース](https://github.com/bit-trade-one/ADUBRU-RelayControll/tree/master/PC-Tool)  
 
 ---
 
