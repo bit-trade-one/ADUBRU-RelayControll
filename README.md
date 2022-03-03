@@ -8,11 +8,11 @@ USB接続する事でPC上のアプリからリレーを自在にコントロー
 
 ## PCツール
 
-### [5回路版ダウンロード](https://github.com/bit-trade-one/ADUBRU-RelayControll/raw/master/PC-Tool/USB_Relay_Controll_CT_5Relay.exe)  
+### [5回路版ダウンロードリンク](https://github.com/bit-trade-one/ADUBRU-RelayControll/raw/master/PC-Tool/USB_Relay_Controll_CT_5Relay.exe)  
 
-### [9回路版ダウンロード](https://github.com/bit-trade-one/ADUBRU-RelayControll/raw/master/PC-Tool/USB_Relay_Controll_CT_9Relay.exe)  
+### [9回路版ダウンロードリンク](https://github.com/bit-trade-one/ADUBRU-RelayControll/raw/master/PC-Tool/USB_Relay_Controll_CT_9Relay.exe)  
 
-#### [PCツール・ソース](https://github.com/bit-trade-one/ADUBRU-RelayControll/tree/master/PC-Tool)  
+### [PCツール・ソース](https://github.com/bit-trade-one/ADUBRU-RelayControll/tree/master/PC-Tool)  
 
 ## ライブラリ
 
@@ -22,7 +22,8 @@ USB接続する事でPC上のアプリからリレーを自在にコントロー
 
 ### [Visual Basicライブラリ]()
 
-## [ファームウェア・ソース](https://github.com/bit-trade-one/ADUBRU-RelayControll/tree/master/Firmware)
+## ファームウェア・ソース
+### [ファームウェア・ソース](https://github.com/bit-trade-one/ADUBRU-RelayControll/tree/master/Firmware)
 
 ---
  
