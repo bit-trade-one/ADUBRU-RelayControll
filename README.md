@@ -1,3 +1,4 @@
+#### [GitHubの使い方はこちらの記事をご確認ください。](https://bit-trade-one.co.jp/h2gh/)
 # ADUBRU-RelayControll
 
 ![](https://bit-trade-one.co.jp/wp/wp-content/uploads/2019/08/3b41b291e659768dc80db779f12b911e.jpg)  
