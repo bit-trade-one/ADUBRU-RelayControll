@@ -27,6 +27,16 @@ USB接続する事でPC上のアプリからリレーを自在にコントロー
 
 ---
 
+## 回路図
+
+### [5回路盤回路図](https://github.com/bit-trade-one/ADUBRU-RelayControll/blob/master/Schematics/usbrelay_5_v11_20190711_sch.pdf)
+
+### [9回路盤回路図](https://github.com/bit-trade-one/ADUBRU-RelayControll/blob/master/Schematics/usbrelay_9_v12_20190819_sch.pdf)
+
+---
+
+---
+
 ## ファームウェア
 ### [ファームウェア・ソース](https://github.com/bit-trade-one/ADUBRU-RelayControll/tree/master/Firmware)
 
