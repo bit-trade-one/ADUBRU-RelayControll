@@ -7,6 +7,8 @@ USB接続する事でPC上のアプリからリレーを自在にコントロー
 
 ### [製品HP](https://bit-trade-one.co.jp/adubru/) 
 
+### [Q&A](FAQ.md) 
+
 # PC制御アプリ
 
 ### [5回路版ダウンロードリンク](https://github.com/bit-trade-one/ADUBRU-RelayControll/raw/master/PC-Tool/USB_Relay_Controll_CT_5Relay.exe)  
