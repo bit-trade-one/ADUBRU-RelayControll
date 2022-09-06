@@ -5,7 +5,7 @@
 ### A.不可能です。1つのPCに対して1台を接続してお使いください。
 
 製品のカスタマイズは受託開発にて承っております。
-詳しくはコチラまでhttps://bit-trade-one.co.jp/btob/
+ご相談はコチラまでhttps://bit-trade-one.co.jp/btob/
 
 ## Q.ADUBRU5とADUBRU9を同じPCで1台づつ同時に動かすことは可能ですか？
 
