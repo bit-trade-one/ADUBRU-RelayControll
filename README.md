@@ -40,7 +40,7 @@ USB接続する事でPC上のアプリからリレーを自在にコントロー
 ## 寸法
 
 ### [5回路寸法](https://github.com/bit-trade-one/ADUBRU-RelayControll/blob/master/Documents/usbrelay_5_v11.1_20190711_brd.pdf)
-
+### [9回路寸法](https://github.com/bit-trade-one/ADUBRU-RelayControll/blob/master/Documents/usbrelay_9_v11.1_20190711_brd.pdf)
 ---
 
 
